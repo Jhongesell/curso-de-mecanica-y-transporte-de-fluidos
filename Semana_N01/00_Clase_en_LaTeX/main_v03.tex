@@ -1,0 +1,77 @@
+\documentclass[8pt]{beamer}
+\input{FrontMatter/preamble.tex}
+\usepackage[spanish]{babel}
+\usetheme{Berlin}
+\usecolortheme{senac}
+\newcommand{\celda}[1]{
+\begin{minipage}{2.5cm}
+\vspace{5mm}
+#1
+\vspace{5mm}
+\end{minipage}
+}
+
+\author[Jhon \& Manuel]{Jhon Gesell Villanueva Portella\inst{1} \& Juan Manuel Zuñiga Mamani\inst{2}}
+\title[Mecánica y Transporte de Fluidos]{Conceptos Básicos y Fundamentos de la Mecánica de Fluidos}
+\date{10 de abril de 2020} 
+\subtitle{Cinemática, viscosidad, fluidos Newtoneanos y no Newtoneanos, números adimensionales aplicado a los biofluidos}
+\logo{\includegraphics[scale=0.0375]{upch.png}}
+\institute[UPCH]{
+\inst{1}
+Universidad Peruana Cayetano Heredia. \\Facultad de Ciencias y Filosofia. \\Escuela Profesional de Ingenieria Biomédica.\\
+\vspace{2mm}
+\inst{2}
+Universidad Peruana Cayetano Heredia. \\Facultad de Ciencias y Filosofia. \\Escuela Profesional de Ingenieria Biomédica.\\
+}
+\AtBeginSection[]
+{
+\begin{frame}<beamer>{Contenido}
+\tableofcontents[currentsection,currentsubsection]
+\end{frame}
+}
+
+
+\begin{document}
+\begin{frame}
+\maketitle
+\end{frame}
+\begin{frame}{Contenido}
+\tableofcontents
+\end{frame}
+\section{Conceptos básicos de la mecánica de fluidos}
+\input{Section_Files/Sec1.tex}
+\section{Fundamentos de la mecánica de fluidos}
+\input{Section_Files/Sec2.tex}
+		
+
+%********************
+
+
+\appendix
+\section{Referencias}
+%\subsection<presentation>*{Referencias}
+\begin{frame}{Referencias}
+\begin{thebibliography}{10}
+\beamertemplatearticlebibitems
+% imagen de libro
+\bibitem{Author1990}
+C.D. Argyropoulos, N.C. Markatos
+\newblock{\em Recent advances on the numerical modelling of turbulent flows}.
+\newblock{Journal homepage: www.elsevier.com/locate/apm, 2015.}
+\beamertemplatebookbibitems
+% imagen de revista, paper o artículo
+\bibitem{Author19901}
+Yunus Cengel y John Cimbala.
+\newblock{\em Fundamentos y Aplicaciones de Mecánica de Fluidos}.
+\newblock{Editorial McGraw-Hill (2006), capitulos 1 y 2}
+\beamertemplateonlinebibitems
+% imagen de una URL de internet
+\bibitem{Author2019}
+OpenFOAM
+\newblock{\em The OpenFOAM Foundation}.
+\newblock{User Guide version 7 (2019)}
+\end{thebibliography}
+\end{frame}
+
+\end{document}
+	

@@ -1,4 +1,0 @@
-\babel@toc {spanish}{}
-\beamer@sectionintoc {1}{Conceptos b\IeC {\'a}sicos de la mec\IeC {\'a}nica de fluidos}{3}{0}{1}
-\beamer@sectionintoc {2}{Fundamentos de la mec\IeC {\'a}nica de fluidos}{46}{0}{2}
-\beamer@sectionintoc {3}{Referencias}{85}{1}{3}

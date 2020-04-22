@@ -4,15 +4,27 @@
 \begin{figure}[H]
 \centering
 \includegraphics[scale=0.2]{Section_Files/S3-imagenes-Jhon/0001.png}
-\caption{En este capítulo se revisan varias aproximaciones que simplifican la ecuación de Navier-Stokes, incluyendo el flujo reptante, en el que los términos viscosos domian a los términos inerciales. El flujo de lava de un volcán es un ejemplo de flujo trepador: la viscosidad de la roca fundida es tan grande que el número de Reynolds es pequeño aún cuando las escalas de longitud sean grandes.}
+\caption{El flujo de lava de un volcán es un ejemplo de flujo trepador: la viscosidad de la roca fundida es tan grande que el número de Reynolds es pequeño aún cuando las escalas de longitud sean grandes.}
 \end{figure}
 
 {\tiny Mecánica de fluidos por Yunus A. Cengel, John M. Cimbala, pág. 491}
 \end{frame}
 
 %***************************
+\begin{frame}{01. Introducción 01/03}
+\justifying
+La mayoría de los problemas prácticos de la mecánica de fluidos no puede resolverse de manera analítica y demanda ya sea 1) mayores aproximaciones o 2) ayuda de computadora. Consideraremos a los flujos en estudio como incompresibles del tipo de fluido newtonianos.
 
-\begin{frame}{01. Introducción}
+%La ecuación de Navier-Stokes no es exacta por si misma, sino que se trata de un modelo de flujo de fluidos que incluye varias aproximaciones inherentes (fluido newtoniano, propiedades termodinámicas y de transporte constante, etc.). No obstante, es un excelente modelo y fundamento de la mecánica de fluidos moderna, Ahora distinguiremos entre soluciones "exactas" y soluciones aproximadas. El termino exacto se utiliza cuando la solución comienza con la ecuación de Navier-Stokes completa. Existen casos en los que algunos terminos se eliminan debido a la geometría especificada u otras hipótesis de simplificación en el problema.
+
+Una solución aproximada se define como aquella donde la ecuación de Navier-Stokes se simplifica en alguna región del flujo antes de inclusive comenzar la solución. En otras palabras se comienzan a eliminar terminos dependiendo de la clase de problema, el cual puede diferir una región del flujo a otra.
+
+
+Los fluidos estáticos pueden considerarse como una solución aproximada de Navier-Stokes. La aproximación es que los términos inercial y viscoso en la ecuación de Navier-Stokes son despreciablemente pequeños en comparación con los términos de presión y gravedad.
+{\tiny Mecánica de fluidos por Yunus A. Cengel, John M. Cimbala, pág. 492}
+\end{frame}
+
+\begin{frame}{01. Introducción 02/03}
 \justifying
 \begin{figure}[H]
 \centering
@@ -23,18 +35,65 @@
 {\tiny Mecánica de fluidos por Yunus A. Cengel, John M. Cimbala, pág. 492}
 \end{frame}
 
-%***************************
-
-\begin{frame}{02. Ecuaciones adimensionalizadas de movimiento}
+\begin{frame}{01. Introducción 03/03}
 \justifying
-El objetivo en esta sección es eliminar las dimensiones de las ecuaciones de movimienot, de modo que puedan compararse de manera decuada los órdenes de magnitud de los diversos términos en las ecuaciones. Se comienza con la ecuación de continuidad de flujo incompresible.
 \begin{figure}[H]
 \centering
-\includegraphics[scale=0.2]{Section_Files/S3-imagenes-Jhon/0004.png}
+\includegraphics[scale=0.2]{Section_Files/S3-imagenes-Jhon/0003.png}
+\caption{Una aproximación partícular de la ecuación de Navier-Stokes es adecuada sólo en ciertas regiones del campo de flujo; otras aproximaciones pueden no ser adecuadas en otras regiones del campo de flujo.}
 \end{figure}
 
 {\tiny Mecánica de fluidos por Yunus A. Cengel, John M. Cimbala, pág. 493}
 \end{frame}
+
+
+%***************************
+
+\begin{frame}{02. Ecuaciones adimensionalizadas de movimiento 01/04}
+\justifying
+Se desea eliminar las dimensiones de las ecuaciones de movimiento, de modo que puedan compararse de manera adecuada las órdenes de magnitud de los diversos términos de las ecuaciones, para ello comenzamos con la ecuación de continuidad de flujo incompresible:
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.2]{Section_Files/S3-imagenes-Jhon/0004.png}
+\end{figure}
+y la forma vectorial de la ecuación de Navier-Stokes, valida para flujo incompresible de un fluido newtoniano con propiedades constantes:
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.2]{Section_Files/S3-imagenes-Jhon/0005.png}
+\end{figure}
+{\tiny Mecánica de fluidos por Yunus A. Cengel, John M. Cimbala, pág. 493}
+\end{frame}
+
+\begin{frame}{02. Ecuaciones adimensionalizadas de movimiento 02/04}
+\justifying
+Mostramos algunos parámetros de escalamiento o repetitivas característicos que se usan para eliminar las dimensiones de las ecuaciones de movimiento.
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{Section_Files/S3-imagenes-Jhon/0006.png}
+\end{figure}
+{\tiny Mecánica de fluidos por Yunus A. Cengel, John M. Cimbala, pág. 494}
+\end{frame}
+
+\begin{frame}{02. Ecuaciones adimensionalizadas de movimiento 03/04}
+\justifying
+Luego se definen algunas variables adimensionales y un operador adimensional con base en los parámetros de escalamiento de la tabla mostrada en el slider anterior.
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{Section_Files/S3-imagenes-Jhon/0007.png}
+\end{figure}
+{\tiny Mecánica de fluidos por Yunus A. Cengel, John M. Cimbala, pág. 494}
+\end{frame}
+
+\begin{frame}{02. Ecuaciones adimensionalizadas de movimiento 04/04}
+\justifying
+Luego de haber multiplicado los terminos de la ecuación de Navier-Stokes por sus respectivos factores se obtiene.
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{Section_Files/S3-imagenes-Jhon/0015.png}
+\end{figure}
+{\tiny Mecánica de fluidos por Yunus A. Cengel, John M. Cimbala, pág. 495}
+\end{frame}
+
 
 %***************************
 

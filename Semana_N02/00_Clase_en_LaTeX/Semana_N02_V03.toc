@@ -1,0 +1,7 @@
+\babel@toc {spanish}{}
+\beamer@sectionintoc {1}{Fluido estable e inestable}{3}{0}{1}
+\beamer@sectionintoc {2}{Flujo laminar y turbulento}{5}{0}{2}
+\beamer@sectionintoc {3}{Fluidos compresibles e incompresibles}{15}{0}{3}
+\beamer@sectionintoc {4}{Viscoelasticidad y viscoplasticidad}{18}{0}{4}
+\beamer@sectionintoc {5}{Refuerzo}{24}{0}{5}
+\beamer@sectionintoc {6}{Referencias}{64}{1}{6}

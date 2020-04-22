@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.3)  22 APR 2020 05:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.3)  22 APR 2020 16:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1101,20 +1101,20 @@ LaTeX Info: Redefining \% on input line 23.
 )
 \openout1 = `Semana_N03_V01.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1182,7 +1182,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box56
-Package hyperref Info: Link coloring OFF on input line 34.
+Package hyperref Info: Link coloring OFF on input line 36.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1192,66 +1192,66 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count175
 )
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \ref on input line 36.
+LaTeX Info: Redefining \pageref on input line 36.
+LaTeX Info: Redefining \nameref on input line 36.
 
 (./Semana_N03_V01.out) (./Semana_N03_V01.out)
 \@outlinefile=\write5
 \openout5 = `Semana_N03_V01.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 34.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 36.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 34.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 36.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 34.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 34.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 34.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 34.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 34.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 34.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 34.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 34.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 36.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 34.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 36.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 34.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 34.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 34.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 34.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 34.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 34.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 36.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 36.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 3
-4.
+6.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-34.
+36.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 34.
+ut line 36.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1282,30 +1282,30 @@ Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 34.
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
+LaTeX Info: Redefining \selectfont on input line 36.
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
  (./Semana_N03_V01.nav)
-LaTeX Font Info:    Try loading font information for U+msa on input line 37.
+LaTeX Font Info:    Try loading font information for U+msa on input line 39.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 37.
+LaTeX Font Info:    Try loading font information for U+msb on input line 39.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 37.
+line 39.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-<upch.png, id=62, 874.26625pt x 383.4325pt>
+<upch.png, id=69, 874.26625pt x 383.4325pt>
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 37.
+Package pdftex.def Info: upch.png  used on input line 39.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
@@ -1317,7 +1317,7 @@ LaTeX Info: Redefining \% on input line 1.
 )
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 40.
+Package pdftex.def Info: upch.png  used on input line 42.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [2
 
@@ -1327,12 +1327,12 @@ LaTeX Info: Redefining \% on input line 1.
 )
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 49.
+Package pdftex.def Info: upch.png  used on input line 51.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [3
 
 ] (./Section_Files/Sec5.tex
-<Section_Files/S3-imagenes-Jhon/0001.png, id=300, 613.29124pt x 411.5375pt>
+<Section_Files/S3-imagenes-Jhon/0001.png, id=335, 613.29124pt x 411.5375pt>
 File: Section_Files/S3-imagenes-Jhon/0001.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0001.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0001.png  used on input
@@ -1347,424 +1347,525 @@ Package pdftex.def Info: upch.png  used on input line 11.
  <./Section_Files/S3-imagenes-Jhon/0001.png>]
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 25.
+Package pdftex.def Info: upch.png  used on input line 23.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [5
 
 ]
-<Section_Files/S3-imagenes-Jhon/0002.png, id=429, 406.51875pt x 560.0925pt>
+<Section_Files/S3-imagenes-Jhon/0002.png, id=478, 406.51875pt x 560.0925pt>
 File: Section_Files/S3-imagenes-Jhon/0002.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0002.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0002.png  used on input
- line 36.
+ line 34.
 (pdftex.def)             Requested size: 81.3023pt x 112.01651pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 36.
+Package pdftex.def Info: upch.png  used on input line 34.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [6
 
  <./Section_Files/S3-imagenes-Jhon/0002.png>]
-<Section_Files/S3-imagenes-Jhon/0003.png, id=494, 871.255pt x 329.23pt>
+<Section_Files/S3-imagenes-Jhon/0003.png, id=551, 871.255pt x 329.23pt>
 File: Section_Files/S3-imagenes-Jhon/0003.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0003.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0003.png  used on input
- line 47.
+ line 45.
 (pdftex.def)             Requested size: 174.24791pt x 65.84482pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 47.
+Package pdftex.def Info: upch.png  used on input line 45.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [7
 
  <./Section_Files/S3-imagenes-Jhon/0003.png>]
-<Section_Files/S3-imagenes-Jhon/0004.png, id=561, 150.5625pt x 59.22125pt>
+<Section_Files/S3-imagenes-Jhon/0004.png, id=625, 150.5625pt x 59.22125pt>
 File: Section_Files/S3-imagenes-Jhon/0004.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0004.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0004.png  used on input
- line 65.
+ line 63.
 (pdftex.def)             Requested size: 30.11195pt x 11.84402pt.
-<Section_Files/S3-imagenes-Jhon/0005.png, id=562, 556.0775pt x 118.4425pt>
+<Section_Files/S3-imagenes-Jhon/0005.png, id=626, 556.0775pt x 118.4425pt>
 File: Section_Files/S3-imagenes-Jhon/0005.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0005.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0005.png  used on input
- line 65.
+ line 63.
 (pdftex.def)             Requested size: 111.21352pt x 23.68806pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 65.
+Package pdftex.def Info: upch.png  used on input line 63.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [8
 
  <./Section_Files/S3-imagenes-Jhon/0004.png> <./Section_Files/S3-imagenes-Jhon/
 0005.png>]
-<Section_Files/S3-imagenes-Jhon/0006.png, id=629, 866.23625pt x 248.93pt>
+<Section_Files/S3-imagenes-Jhon/0006.png, id=699, 866.23625pt x 248.93pt>
 File: Section_Files/S3-imagenes-Jhon/0006.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0006.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0006.png  used on input
- line 75.
+ line 73.
 (pdftex.def)             Requested size: 259.87288pt x 74.67957pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 75.
+Package pdftex.def Info: upch.png  used on input line 73.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [9
 
  <./Section_Files/S3-imagenes-Jhon/0006.png>]
-<Section_Files/S3-imagenes-Jhon/0007.png, id=694, 441.65pt x 165.61874pt>
+<Section_Files/S3-imagenes-Jhon/0007.png, id=772, 441.65pt x 165.61874pt>
 File: Section_Files/S3-imagenes-Jhon/0007.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0007.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0007.png  used on input
- line 85.
+ line 83.
 (pdftex.def)             Requested size: 132.49602pt x 49.686pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 85.
+Package pdftex.def Info: upch.png  used on input line 83.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [10
 
  <./Section_Files/S3-imagenes-Jhon/0007.png>]
-<Section_Files/S3-imagenes-Jhon/0015.png, id=760, 680.5425pt x 105.39375pt>
+<Section_Files/S3-imagenes-Jhon/0015.png, id=845, 680.5425pt x 105.39375pt>
 File: Section_Files/S3-imagenes-Jhon/0015.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0015.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0015.png  used on input
- line 97.
+ line 93.
 (pdftex.def)             Requested size: 204.16432pt x 31.61836pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 97.
+Package pdftex.def Info: upch.png  used on input line 93.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [11
 
  <./Section_Files/S3-imagenes-Jhon/0015.png>]
-File: Section_Files/S3-imagenes-Jhon/0006.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0006.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0006.png  used on input
+<Section_Files/S3-imagenes-Jhon/0022.png, id=917, 406.51875pt x 397.485pt>
+File: Section_Files/S3-imagenes-Jhon/0022.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0022.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0022.png  used on input
  line 107.
-(pdftex.def)             Requested size: 259.87288pt x 74.67957pt.
+(pdftex.def)             Requested size: 142.28369pt x 139.12183pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
 Package pdftex.def Info: upch.png  used on input line 107.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [12
 
-]
-<Section_Files/S3-imagenes-Jhon/0022.png, id=889, 406.51875pt x 397.485pt>
-File: Section_Files/S3-imagenes-Jhon/0022.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0022.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0022.png  used on input
- line 120.
-(pdftex.def)             Requested size: 142.28369pt x 139.12183pt.
-File: upch.png Graphic file (type png)
-<use upch.png>
-Package pdftex.def Info: upch.png  used on input line 120.
-(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
-
-[13
-
  <./Section_Files/S3-imagenes-Jhon/0022.png>]
-<Section_Files/S3-imagenes-Jhon/0031.png, id=956, 424.58624pt x 258.9675pt>
-File: Section_Files/S3-imagenes-Jhon/0031.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0031.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0031.png  used on input
- line 132.
-(pdftex.def)             Requested size: 148.6074pt x 90.63997pt.
+<Section_Files/S3-imagenes-Jhon/0027-01.png, id=990, 505.89pt x 197.73875pt>
+File: Section_Files/S3-imagenes-Jhon/0027-01.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0027-01.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0027-01.png  used on in
+put line 117.
+(pdftex.def)             Requested size: 278.24034pt x 108.75664pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 132.
+Package pdftex.def Info: upch.png  used on input line 117.
+(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
+ [13
+
+ <./Section_Files/S3-imagenes-Jhon/0027-01.png>]
+<Section_Files/S3-imagenes-Jhon/0027-02.png, id=1064, 502.87875pt x 234.8775pt>
+
+File: Section_Files/S3-imagenes-Jhon/0027-02.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0027-02.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0027-02.png  used on in
+put line 126.
+(pdftex.def)             Requested size: 276.58417pt x 129.18301pt.
+File: upch.png Graphic file (type png)
+<use upch.png>
+Package pdftex.def Info: upch.png  used on input line 126.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [14
 
- <./Section_Files/S3-imagenes-Jhon/0031.png>]
-<Section_Files/S3-imagenes-Jhon/0035.png, id=1023, 381.425pt x 91.34125pt>
-File: Section_Files/S3-imagenes-Jhon/0035.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0035.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0035.png  used on input
- line 144.
-(pdftex.def)             Requested size: 133.50075pt x 31.96991pt.
+ <./Section_Files/S3-imagenes-Jhon/0027-02.png>]
+<Section_Files/S3-imagenes-Jhon/0031.png, id=1136, 424.58624pt x 258.9675pt>
+File: Section_Files/S3-imagenes-Jhon/0031.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0031.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0031.png  used on input
+ line 137.
+(pdftex.def)             Requested size: 148.6074pt x 90.63997pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 144.
+Package pdftex.def Info: upch.png  used on input line 137.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [15
 
- <./Section_Files/S3-imagenes-Jhon/0035.png>]
-<Section_Files/S3-imagenes-Jhon/0037.png, id=1089, 378.41376pt x 102.3825pt>
-File: Section_Files/S3-imagenes-Jhon/0037.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0037.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0037.png  used on input
- line 156.
-(pdftex.def)             Requested size: 132.4468pt x 35.83441pt.
+ <./Section_Files/S3-imagenes-Jhon/0031.png>]
+<Section_Files/S3-imagenes-Jhon/0031-01.png, id=1211, 83.31125pt x 30.1125pt>
+File: Section_Files/S3-imagenes-Jhon/0031-01.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0031-01.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0031-01.png  used on in
+put line 153.
+(pdftex.def)             Requested size: 45.82132pt x 16.5619pt.
+<Section_Files/S3-imagenes-Jhon/0032.png, id=1212, 431.6125pt x 228.855pt>
+File: Section_Files/S3-imagenes-Jhon/0032.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0032.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0032.png  used on input
+ line 153.
+(pdftex.def)             Requested size: 107.90285pt x 57.21361pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 156.
+Package pdftex.def Info: upch.png  used on input line 153.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [16
 
- <./Section_Files/S3-imagenes-Jhon/0037.png>]
-<Section_Files/S3-imagenes-Jhon/0048.png, id=1155, 205.76875pt x 71.26625pt>
-File: Section_Files/S3-imagenes-Jhon/0048.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0048.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0048.png  used on input
- line 168.
-(pdftex.def)             Requested size: 72.02013pt x 24.94354pt.
+ <./Section_Files/S3-imagenes-Jhon/0031-01.png> <./Section_Files/S3-imagenes-Jh
+on/0032.png>]
+<Section_Files/S3-imagenes-Jhon/0032-01.png, id=1286, 421.575pt x 240.9pt>
+File: Section_Files/S3-imagenes-Jhon/0032-01.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0032-01.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0032-01.png  used on in
+put line 162.
+(pdftex.def)             Requested size: 231.86696pt x 132.49539pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 168.
+Package pdftex.def Info: upch.png  used on input line 162.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [17
 
- <./Section_Files/S3-imagenes-Jhon/0048.png>]
-<Section_Files/S3-imagenes-Jhon/0049.png, id=1220, 682.55pt x 59.22125pt>
-File: Section_Files/S3-imagenes-Jhon/0049.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0049.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0049.png  used on input
- line 180.
-(pdftex.def)             Requested size: 238.89607pt x 20.72774pt.
+ <./Section_Files/S3-imagenes-Jhon/0032-01.png>]
+<Section_Files/S3-imagenes-Jhon/0032-02.png, id=1359, 423.5825pt x 306.14375pt>
+
+File: Section_Files/S3-imagenes-Jhon/0032-02.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0032-02.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0032-02.png  used on in
+put line 171.
+(pdftex.def)             Requested size: 232.97108pt x 168.37958pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 180.
+Package pdftex.def Info: upch.png  used on input line 171.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [18
 
+ <./Section_Files/S3-imagenes-Jhon/0032-02.png>]
+<Section_Files/S3-imagenes-Jhon/0032-03.png, id=1431, 421.575pt x 219.82124pt>
+File: Section_Files/S3-imagenes-Jhon/0032-03.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0032-03.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0032-03.png  used on in
+put line 181.
+(pdftex.def)             Requested size: 231.86696pt x 120.90204pt.
+File: upch.png Graphic file (type png)
+<use upch.png>
+Package pdftex.def Info: upch.png  used on input line 181.
+(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
+
+[19
+
+ <./Section_Files/S3-imagenes-Jhon/0032-03.png>]
+<Section_Files/S3-imagenes-Jhon/0033.png, id=1505, 385.44pt x 346.29375pt>
+File: Section_Files/S3-imagenes-Jhon/0033.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0033.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0033.png  used on input
+ line 191.
+(pdftex.def)             Requested size: 134.90602pt x 121.20462pt.
+File: upch.png Graphic file (type png)
+<use upch.png>
+Package pdftex.def Info: upch.png  used on input line 191.
+(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
+ [20
+
+ <./Section_Files/S3-imagenes-Jhon/0033.png>]
+<Section_Files/S3-imagenes-Jhon/0034.png, id=1578, 301.125pt x 335.2525pt>
+File: Section_Files/S3-imagenes-Jhon/0034.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0034.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0034.png  used on input
+ line 201.
+(pdftex.def)             Requested size: 105.39532pt x 117.34013pt.
+File: upch.png Graphic file (type png)
+<use upch.png>
+Package pdftex.def Info: upch.png  used on input line 201.
+(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
+ [21
+
+ <./Section_Files/S3-imagenes-Jhon/0034.png>]
+<Section_Files/S3-imagenes-Jhon/0035.png, id=1650, 381.425pt x 91.34125pt>
+File: Section_Files/S3-imagenes-Jhon/0035.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0035.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0035.png  used on input
+ line 212.
+(pdftex.def)             Requested size: 133.50075pt x 31.96991pt.
+File: upch.png Graphic file (type png)
+<use upch.png>
+Package pdftex.def Info: upch.png  used on input line 212.
+(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
+ [22
+
+ <./Section_Files/S3-imagenes-Jhon/0035.png>]
+<Section_Files/S3-imagenes-Jhon/0037.png, id=1723, 378.41376pt x 102.3825pt>
+File: Section_Files/S3-imagenes-Jhon/0037.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0037.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0037.png  used on input
+ line 224.
+(pdftex.def)             Requested size: 132.4468pt x 35.83441pt.
+File: upch.png Graphic file (type png)
+<use upch.png>
+Package pdftex.def Info: upch.png  used on input line 224.
+(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
+ [23
+
+ <./Section_Files/S3-imagenes-Jhon/0037.png>]
+<Section_Files/S3-imagenes-Jhon/0048.png, id=1796, 205.76875pt x 71.26625pt>
+File: Section_Files/S3-imagenes-Jhon/0048.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0048.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0048.png  used on input
+ line 236.
+(pdftex.def)             Requested size: 72.02013pt x 24.94354pt.
+File: upch.png Graphic file (type png)
+<use upch.png>
+Package pdftex.def Info: upch.png  used on input line 236.
+(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
+ [24
+
+ <./Section_Files/S3-imagenes-Jhon/0048.png>]
+<Section_Files/S3-imagenes-Jhon/0049.png, id=1868, 682.55pt x 59.22125pt>
+File: Section_Files/S3-imagenes-Jhon/0049.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0049.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0049.png  used on input
+ line 248.
+(pdftex.def)             Requested size: 238.89607pt x 20.72774pt.
+File: upch.png Graphic file (type png)
+<use upch.png>
+Package pdftex.def Info: upch.png  used on input line 248.
+(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
+ [25
+
  <./Section_Files/S3-imagenes-Jhon/0049.png>]
-<Section_Files/S3-imagenes-Jhon/0060.png, id=1286, 395.4775pt x 89.33376pt>
+<Section_Files/S3-imagenes-Jhon/0060.png, id=1942, 395.4775pt x 89.33376pt>
 File: Section_Files/S3-imagenes-Jhon/0060.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0060.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0060.png  used on input
- line 192.
+ line 260.
 (pdftex.def)             Requested size: 138.41919pt x 31.26727pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 192.
+Package pdftex.def Info: upch.png  used on input line 260.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [19
+ [26
 
  <./Section_Files/S3-imagenes-Jhon/0060.png>]
-<Section_Files/S3-imagenes-Jhon/0062.png, id=1353, 255.95625pt x 97.36375pt>
+<Section_Files/S3-imagenes-Jhon/0062.png, id=2015, 255.95625pt x 97.36375pt>
 File: Section_Files/S3-imagenes-Jhon/0062.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0062.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0062.png  used on input
- line 204.
+ line 272.
 (pdftex.def)             Requested size: 89.58601pt x 34.0778pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 204.
+Package pdftex.def Info: upch.png  used on input line 272.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [20
+
+[27
 
  <./Section_Files/S3-imagenes-Jhon/0062.png>]
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 213.
+Package pdftex.def Info: upch.png  used on input line 281.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
-
-[21
+ [28
 
 ]
-<Section_Files/S3-imagenes-Jhon/0072.png, id=1482, 272.01625pt x 92.345pt>
+<Section_Files/S3-imagenes-Jhon/0072.png, id=2158, 272.01625pt x 92.345pt>
 File: Section_Files/S3-imagenes-Jhon/0072.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0072.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0072.png  used on input
- line 225.
+ line 293.
 (pdftex.def)             Requested size: 95.2071pt x 32.32123pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 225.
+Package pdftex.def Info: upch.png  used on input line 293.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [22
+ [29
 
  <./Section_Files/S3-imagenes-Jhon/0072.png>]
-<Section_Files/S3-imagenes-Jhon/0081.png, id=1547, 233.87375pt x 80.3pt>
+<Section_Files/S3-imagenes-Jhon/0081.png, id=2231, 233.87375pt x 80.3pt>
 File: Section_Files/S3-imagenes-Jhon/0081.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0081.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0081.png  used on input
- line 237.
+ line 305.
 (pdftex.def)             Requested size: 81.85703pt x 28.10541pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 237.
+Package pdftex.def Info: upch.png  used on input line 305.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [23
+ [30
 
  <./Section_Files/S3-imagenes-Jhon/0081.png>]
-<Section_Files/S3-imagenes-Jhon/0088.png, id=1613, 718.685pt x 269.005pt>
+<Section_Files/S3-imagenes-Jhon/0088.png, id=2304, 718.685pt x 269.005pt>
 File: Section_Files/S3-imagenes-Jhon/0088.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0088.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0088.png  used on input
- line 250.
+ line 318.
 (pdftex.def)             Requested size: 251.54352pt x 94.15315pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 250.
+Package pdftex.def Info: upch.png  used on input line 318.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [24
+
+[31
 
  <./Section_Files/S3-imagenes-Jhon/0088.png>]
-<Section_Files/S3-imagenes-Jhon/0091.png, id=1679, 130.4875pt x 52.195pt>
+<Section_Files/S3-imagenes-Jhon/0091.png, id=2377, 130.4875pt x 52.195pt>
 File: Section_Files/S3-imagenes-Jhon/0091.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0091.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0091.png  used on input
- line 262.
+ line 330.
 (pdftex.def)             Requested size: 45.6713pt x 18.26851pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 262.
+Package pdftex.def Info: upch.png  used on input line 330.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
-
-[25
+ [32
 
  <./Section_Files/S3-imagenes-Jhon/0091.png>]
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 271.
-(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [26
-
-]
-File: upch.png Graphic file (type png)
-<use upch.png>
-Package pdftex.def Info: upch.png  used on input line 280.
-(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [27
-
-]
-<Section_Files/S3-imagenes-Jhon/0132.png, id=1873, 219.82124pt x 69.25874pt>
-File: Section_Files/S3-imagenes-Jhon/0132.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0132.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0132.png  used on input
- line 292.
-(pdftex.def)             Requested size: 76.93858pt x 24.2409pt.
-File: upch.png Graphic file (type png)
-<use upch.png>
-Package pdftex.def Info: upch.png  used on input line 292.
-(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [28
-
- <./Section_Files/S3-imagenes-Jhon/0132.png>]
-<Section_Files/S3-imagenes-Jhon/0137.png, id=1938, 248.93pt x 68.255pt>
-File: Section_Files/S3-imagenes-Jhon/0137.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0137.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0137.png  used on input
- line 304.
-(pdftex.def)             Requested size: 87.1268pt x 23.8896pt.
-File: upch.png Graphic file (type png)
-<use upch.png>
-Package pdftex.def Info: upch.png  used on input line 304.
-(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [29
-
- <./Section_Files/S3-imagenes-Jhon/0137.png>]
-<Section_Files/S3-imagenes-Jhon/0163.png, id=2004, 599.23875pt x 221.82875pt>
-File: Section_Files/S3-imagenes-Jhon/0163.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0163.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0163.png  used on input
- line 325.
-(pdftex.def)             Requested size: 119.84563pt x 44.36496pt.
-<Section_Files/S3-imagenes-Jhon/0164.png, id=2005, 605.26125pt x 323.2075pt>
-File: Section_Files/S3-imagenes-Jhon/0164.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0164.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0164.png  used on input
- line 325.
-(pdftex.def)             Requested size: 121.0501pt x 64.64035pt.
-File: upch.png Graphic file (type png)
-<use upch.png>
-Package pdftex.def Info: upch.png  used on input line 325.
-(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
-
-[30
-
- <./Section_Files/S3-imagenes-Jhon/0163.png> <./Section_Files/S3-imagenes-Jhon/
-0164.png>]
-<Section_Files/S3-imagenes-Jhon/0123.png, id=2072, 750.805pt x 171.64125pt>
-File: Section_Files/S3-imagenes-Jhon/0123.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0123.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0123.png  used on input
- line 337.
-(pdftex.def)             Requested size: 187.70079pt x 42.9102pt.
-File: upch.png Graphic file (type png)
-<use upch.png>
-Package pdftex.def Info: upch.png  used on input line 337.
-(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [31
-
- <./Section_Files/S3-imagenes-Jhon/0123.png>]
-<Section_Files/S3-imagenes-Jhon/0202.png, id=2138, 331.2375pt x 336.25626pt>
-File: Section_Files/S3-imagenes-Jhon/0202.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0202.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0202.png  used on input
- line 349.
-(pdftex.def)             Requested size: 82.80916pt x 84.06386pt.
-File: upch.png Graphic file (type png)
-<use upch.png>
-Package pdftex.def Info: upch.png  used on input line 349.
-(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [32
-
- <./Section_Files/S3-imagenes-Jhon/0202.png>]
-<Section_Files/S3-imagenes-Jhon/0211.png, id=2204, 249.93375pt x 83.31125pt>
-File: Section_Files/S3-imagenes-Jhon/0211.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0211.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0211.png  used on input
- line 362.
-(pdftex.def)             Requested size: 62.48328pt x 20.82776pt.
-File: upch.png Graphic file (type png)
-<use upch.png>
-Package pdftex.def Info: upch.png  used on input line 362.
+Package pdftex.def Info: upch.png  used on input line 339.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [33
 
- <./Section_Files/S3-imagenes-Jhon/0211.png>]
-<Section_Files/S3-imagenes-Jhon/0219.png, id=2269, 547.04375pt x 122.4575pt>
-File: Section_Files/S3-imagenes-Jhon/0219.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0219.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0219.png  used on input
- line 374.
-(pdftex.def)             Requested size: 136.76059pt x 30.61429pt.
+]
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 374.
+Package pdftex.def Info: upch.png  used on input line 348.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [34
 
- <./Section_Files/S3-imagenes-Jhon/0219.png>]
-<Section_Files/S3-imagenes-Jhon/0231.png, id=2335, 437.635pt x 264.99pt>
-File: Section_Files/S3-imagenes-Jhon/0231.png Graphic file (type png)
-<use Section_Files/S3-imagenes-Jhon/0231.png>
-Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0231.png  used on input
- line 386.
-(pdftex.def)             Requested size: 109.40848pt x 66.24733pt.
+]
+<Section_Files/S3-imagenes-Jhon/0132.png, id=2591, 219.82124pt x 69.25874pt>
+File: Section_Files/S3-imagenes-Jhon/0132.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0132.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0132.png  used on input
+ line 360.
+(pdftex.def)             Requested size: 76.93858pt x 24.2409pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 386.
+Package pdftex.def Info: upch.png  used on input line 360.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
  [35
 
+ <./Section_Files/S3-imagenes-Jhon/0132.png>]
+<Section_Files/S3-imagenes-Jhon/0137.png, id=2664, 248.93pt x 68.255pt>
+File: Section_Files/S3-imagenes-Jhon/0137.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0137.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0137.png  used on input
+ line 372.
+(pdftex.def)             Requested size: 87.1268pt x 23.8896pt.
+File: upch.png Graphic file (type png)
+<use upch.png>
+Package pdftex.def Info: upch.png  used on input line 372.
+(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
+
+[36
+
+ <./Section_Files/S3-imagenes-Jhon/0137.png>]
+<Section_Files/S3-imagenes-Jhon/0163.png, id=2737, 599.23875pt x 221.82875pt>
+File: Section_Files/S3-imagenes-Jhon/0163.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0163.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0163.png  used on input
+ line 393.
+(pdftex.def)             Requested size: 119.84563pt x 44.36496pt.
+<Section_Files/S3-imagenes-Jhon/0164.png, id=2738, 605.26125pt x 323.2075pt>
+File: Section_Files/S3-imagenes-Jhon/0164.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0164.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0164.png  used on input
+ line 393.
+(pdftex.def)             Requested size: 121.0501pt x 64.64035pt.
+File: upch.png Graphic file (type png)
+<use upch.png>
+Package pdftex.def Info: upch.png  used on input line 393.
+(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
+ [37
+
+ <./Section_Files/S3-imagenes-Jhon/0163.png> <./Section_Files/S3-imagenes-Jhon/
+0164.png>]
+<Section_Files/S3-imagenes-Jhon/0123.png, id=2813, 750.805pt x 171.64125pt>
+File: Section_Files/S3-imagenes-Jhon/0123.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0123.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0123.png  used on input
+ line 405.
+(pdftex.def)             Requested size: 187.70079pt x 42.9102pt.
+File: upch.png Graphic file (type png)
+<use upch.png>
+Package pdftex.def Info: upch.png  used on input line 405.
+(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
+ [38
+
+ <./Section_Files/S3-imagenes-Jhon/0123.png>]
+<Section_Files/S3-imagenes-Jhon/0202.png, id=2885, 331.2375pt x 336.25626pt>
+File: Section_Files/S3-imagenes-Jhon/0202.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0202.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0202.png  used on input
+ line 417.
+(pdftex.def)             Requested size: 82.80916pt x 84.06386pt.
+File: upch.png Graphic file (type png)
+<use upch.png>
+Package pdftex.def Info: upch.png  used on input line 417.
+(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
+ [39
+
+ <./Section_Files/S3-imagenes-Jhon/0202.png>]
+<Section_Files/S3-imagenes-Jhon/0211.png, id=2958, 249.93375pt x 83.31125pt>
+File: Section_Files/S3-imagenes-Jhon/0211.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0211.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0211.png  used on input
+ line 430.
+(pdftex.def)             Requested size: 62.48328pt x 20.82776pt.
+File: upch.png Graphic file (type png)
+<use upch.png>
+Package pdftex.def Info: upch.png  used on input line 430.
+(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
+ [40
+
+ <./Section_Files/S3-imagenes-Jhon/0211.png>]
+<Section_Files/S3-imagenes-Jhon/0219.png, id=3031, 547.04375pt x 122.4575pt>
+File: Section_Files/S3-imagenes-Jhon/0219.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0219.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0219.png  used on input
+ line 442.
+(pdftex.def)             Requested size: 136.76059pt x 30.61429pt.
+File: upch.png Graphic file (type png)
+<use upch.png>
+Package pdftex.def Info: upch.png  used on input line 442.
+(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
+ [41
+
+ <./Section_Files/S3-imagenes-Jhon/0219.png>]
+<Section_Files/S3-imagenes-Jhon/0231.png, id=3103, 437.635pt x 264.99pt>
+File: Section_Files/S3-imagenes-Jhon/0231.png Graphic file (type png)
+<use Section_Files/S3-imagenes-Jhon/0231.png>
+Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0231.png  used on input
+ line 454.
+(pdftex.def)             Requested size: 109.40848pt x 66.24733pt.
+File: upch.png Graphic file (type png)
+<use upch.png>
+Package pdftex.def Info: upch.png  used on input line 454.
+(pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
+ [42
+
  <./Section_Files/S3-imagenes-Jhon/0231.png>]
-<Section_Files/S3-imagenes-Jhon/0245.png, id=2401, 342.27875pt x 435.6275pt>
+<Section_Files/S3-imagenes-Jhon/0245.png, id=3176, 342.27875pt x 435.6275pt>
 File: Section_Files/S3-imagenes-Jhon/0245.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0245.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0245.png  used on input
- line 398.
+ line 466.
 (pdftex.def)             Requested size: 85.56947pt x 108.9066pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 398.
+Package pdftex.def Info: upch.png  used on input line 466.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [36
+ [43
 
  <./Section_Files/S3-imagenes-Jhon/0245.png>]
-<Section_Files/S3-imagenes-Jhon/0259.png, id=2466, 445.665pt x 407.5225pt>
+<Section_Files/S3-imagenes-Jhon/0259.png, id=3250, 445.665pt x 407.5225pt>
 File: Section_Files/S3-imagenes-Jhon/0259.png Graphic file (type png)
 <use Section_Files/S3-imagenes-Jhon/0259.png>
 Package pdftex.def Info: Section_Files/S3-imagenes-Jhon/0259.png  used on input
- line 409.
+ line 477.
 (pdftex.def)             Requested size: 111.41597pt x 101.88037pt.
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 409.
+Package pdftex.def Info: upch.png  used on input line 477.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [37
+ [44
 
  <./Section_Files/S3-imagenes-Jhon/0259.png>]) (./Semana_N03_V01.toc
 LaTeX Info: Redefining \. on input line 1.
@@ -1772,23 +1873,23 @@ LaTeX Info: Redefining \% on input line 1.
 )
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 56.
+Package pdftex.def Info: upch.png  used on input line 58.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [38
+ [45
 
 ]
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 83.
+Package pdftex.def Info: upch.png  used on input line 85.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [39
+ [46
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonbook.pdf>]
 File: upch.png Graphic file (type png)
 <use upch.png>
-Package pdftex.def Info: upch.png  used on input line 100.
+Package pdftex.def Info: upch.png  used on input line 102.
 (pdftex.def)             Requested size: 32.79024pt x 14.38101pt.
- [40
+ [47
 
 ]
 \tf@nav=\write6
@@ -1800,23 +1901,22 @@ Package pdftex.def Info: upch.png  used on input line 100.
 \tf@snm=\write8
 \openout8 = `Semana_N03_V01.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
-
-(./Semana_N03_V01.aux
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
+ (./Semana_N03_V01.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
 Package rerunfilecheck Info: File `Semana_N03_V01.out' has not changed.
 (rerunfilecheck)             Checksum: D04C8678FB882063ACB448F6DF71628D;141.
  ) 
 Here is how much of TeX's memory you used:
- 20257 strings out of 492982
- 377571 string characters out of 6134897
- 575761 words of memory out of 5000000
- 23223 multiletter control sequences out of 15000+600000
+ 20330 strings out of 492982
+ 379565 string characters out of 6134897
+ 584271 words of memory out of 5000000
+ 23273 multiletter control sequences out of 15000+600000
  11466 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,19n,56p,813b,772s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1824,10 +1924,10 @@ Here is how much of TeX's memory you used:
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
-Output written on Semana_N03_V01.pdf (40 pages, 848185 bytes).
+Output written on Semana_N03_V01.pdf (47 pages, 1172892 bytes).
 PDF statistics:
- 2680 PDF objects out of 2984 (max. 8388607)
- 2500 compressed objects within 25 object streams
- 90 named destinations out of 1000 (max. 500000)
- 227 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3473 PDF objects out of 3580 (max. 8388607)
+ 3253 compressed objects within 33 object streams
+ 104 named destinations out of 1000 (max. 500000)
+ 272 words of extra memory for PDF output out of 10000 (max. 10000000)
 
